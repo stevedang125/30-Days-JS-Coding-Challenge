@@ -1,7 +1,8 @@
 ### 30-Days-JS-Coding-Challenge
-- Fun projects in JavaScript :)
+- Fun [projects](https://github.com/stevedang125/30-Days-JS-Coding-Challenge/tree/master/projects) in JavaScript && CSS :)
 
-### 1. Drum Kit:
+### 1. [Drum Kit](https://github.com/stevedang125/30-Days-JS-Coding-Challenge/tree/master/projects/01-Drum%20Kit):
+- [Cheat Sheet](https://github.com/stevedang125/30-Days-JS-Coding-Challenge/blob/master/projects/01-Drum%20Kit/CheatSheet.md):
 #### What I have learned:
 1. (HTML) Custom attribute data-key, kbd tag, audio tag:
 ```
@@ -26,7 +27,9 @@
 // i.e.: 
 // select audio[data-key="65"] from: 
 // <audio data-key="65" src="sounds/clap.wav"></audio>
+
 const audio = document.querySelector(`audio[data-key="${event.keyCode}"]`);
+
 // Get the key that's playing to add the .playing class animation
 const key = document.querySelector(`.key[data-key="${event.keyCode}"]`);
 ```
