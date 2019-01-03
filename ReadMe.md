@@ -3,6 +3,9 @@
 
 ### 1. [Drum Kit](https://github.com/stevedang125/30-Days-JS-Coding-Challenge/tree/master/projects/01-Drum%20Kit):
 - [Cheat Sheet](https://github.com/stevedang125/30-Days-JS-Coding-Challenge/blob/master/projects/01-Drum%20Kit/CheatSheet.md):
+
+![drum kit](https://user-images.githubusercontent.com/32247767/50623501-89476280-0ee4-11e9-9ae6-1d2c6f41e3b9.gif)
+
 #### What I have learned:
 1. (HTML) Custom attribute data-key, kbd tag, audio tag:
 ```
@@ -71,6 +74,8 @@ letter-spacing: .1rem;
 ```
 
 ### 2. [Clock in JS & CSS](https://github.com/stevedang125/30-Days-JS-Coding-Challenge/tree/master/projects/02%20JS%20CSS%20Clock):
+
+![clock](https://user-images.githubusercontent.com/32247767/50623509-906e7080-0ee4-11e9-84ab-2bac0274d4df.gif)
 
 #### What I have learned:
 #### 1. CSS:
